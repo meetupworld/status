@@ -4,7 +4,7 @@ This is the status page for the project.
 
 ### Project Status
 
-Started
+Started August 23, 2021
 
 This page was created as of today, and we have an idea, and some more background
 
@@ -16,3 +16,4 @@ We registered https://meetup.world to be a global search and browse gateway to m
 
 We are looking for people like you to contribute. Everything from product owner to developer to tester, or what every you want call yourself.
 
+Contact meetup.world@code-sharp.com
